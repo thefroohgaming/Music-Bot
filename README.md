@@ -1,5 +1,3 @@
-## English Version
-
 ## About
 
 > A dedicated music bot example project for Zhycorp Development made by iCrawl, But Indonesia Version , Made By TheFROOHGaming
